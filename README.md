@@ -16,4 +16,47 @@ Exploratory Data Analysis (EDA) was conducted using Pandas groupby operations. T
 * Hourly Revenue Analysis
 
 The insights obtained from the analysis were visualized in Power BI using KPI cards and charts. The dashboard includes Total Revenue, Total Transactions, Average Revenue, Revenue by Store Location, and Revenue by Product Category visualizations.
+ ## Tools Used
 
+- Python
+- Pandas
+- Power BI
+- DAX
+- Power Query
+
+## Dashboard Pages
+
+### Executive Dashboard
+- Total Revenue
+- Total Transactions
+- Average Revenue Per Transaction
+- Revenue by Store
+- Revenue by Product Category
+
+### Time-Based Performance Analysis
+- Peak Hour
+- Peak Time Bucket
+- Revenue by Hour
+- Revenue by Time Bucket
+- Quantity by Time Bucket
+
+### Product Performance Analysis
+- Best Selling Category
+- Top Product Types by Average Revenue
+- Top 10 Products by Revenue
+- Top 10 Products by Quantity Sold
+
+
+## Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](dashboard_page1.png)
+
+### Time-Based Performance Analysis
+
+![Time-Based Performance Analysis](dashboard_page2.png)
+
+### Product Performance Analysis
+
+![Product Performance Analysis](dashboard_page3.png)
